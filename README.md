@@ -1,4 +1,4 @@
-# Agente de RH com IA 🤖👔
+# Agente de RH com IA 🤖
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TK9LdS_ceWcVC1lTE6NCeqrwt4O1y8De#scrollTo=34MNF6CJcVxS)
 
